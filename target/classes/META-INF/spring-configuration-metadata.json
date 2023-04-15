@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "cj.whitelist",
+      "type": "com.cj.config.WhiteListProperties",
+      "sourceType": "com.cj.config.WhiteListProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "cj.whitelist.users",
+      "type": "java.lang.String",
+      "sourceType": "com.cj.config.WhiteListProperties"
+    }
+  ],
+  "hints": []
+}
